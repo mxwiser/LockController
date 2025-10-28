@@ -1,0 +1,5 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\box_bsp.obj" 
+TO ".\Objects\demo" 
+PRINT(".\Listings\demo.m51") RAMSIZE(256) 
